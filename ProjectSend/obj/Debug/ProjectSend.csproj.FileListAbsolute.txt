@@ -1,0 +1,8 @@
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectSend\bin\Debug\ProjectSend.exe.config
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectSend\bin\Debug\ProjectSend.exe
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectSend\bin\Debug\ProjectSend.pdb
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectSend\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectSend\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectSend\obj\Debug\ProjectSend.exe
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectSend\obj\Debug\ProjectSend.pdb
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectSend\obj\Debug\ProjectSend.csprojResolveAssemblyReference.cache

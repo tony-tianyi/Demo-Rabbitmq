@@ -1,0 +1,12 @@
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectReceive\bin\Debug\ProjectReceive.exe.config
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectReceive\bin\Debug\ProjectReceive.exe
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectReceive\bin\Debug\ProjectReceive.pdb
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectReceive\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectReceive\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectReceive\obj\Debug\ProjectReceive.exe
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectReceive\obj\Debug\ProjectReceive.pdb
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectReceive\obj\Debug\ProjectReceive.csprojResolveAssemblyReference.cache
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectReceive\bin\Debug\ProjectReceive.exe.manifest
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectReceive\bin\Debug\ProjectReceive.application
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectReceive\obj\Debug\ProjectReceive.exe.manifest
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Test_Ewma\ProjectReceive\obj\Debug\ProjectReceive.application
